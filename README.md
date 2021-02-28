@@ -28,7 +28,7 @@ The best way I found is to just check if the point is in one of these polygons.
 
 ### Checks point in polygon
 
-We can use [http://alienryderflex.com/polygon/](this method) to check the presence of the point in the polygon.
+We can use [this method](http://alienryderflex.com/polygon/) to check the presence of the point in the polygon.
 
 ## Implementation
 
