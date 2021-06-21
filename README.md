@@ -37,6 +37,10 @@ We can use [this method](http://alienryderflex.com/polygon/) to check the presen
 
 One can find a javascript implementation of this method inside this repo. Others implementations will maybe appear.
 
+## Pro & Cons
+
+This method is faster at execution time if the polygon is already compiled. It is pretty slow if everything is calculated at execution time.
+
 ## License
 
 ChocolateWare License (see LICENSE file for more)
