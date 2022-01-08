@@ -35,7 +35,7 @@ We can use [this method](http://alienryderflex.com/polygon/) to check the presen
 
 ## Implementation
 
-One can find a javascript implementation of this method inside this repo. Others implementations will maybe appear.
+One can find a javascript implementation of this method inside this repo. Others implementations may appear.
 
 ## Pro & Cons
 
